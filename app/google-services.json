@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558600597921",
+    "project_id": "apporder-13e5c",
+    "storage_bucket": "apporder-13e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558600597921:android:6c099a6f8088f7c3821be0",
+        "android_client_info": {
+          "package_name": "com.hmai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558600597921-28ggt9fs274olnmqigh7cnpjjh69ukf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWo8fjanGGUPMxlO-mYp9BB5u8x6HokGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558600597921-28ggt9fs274olnmqigh7cnpjjh69ukf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
